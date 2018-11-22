@@ -1,6 +1,6 @@
 {
   "name": "nakajs-tx",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An simple module for creating, manipulating, and signing Naka transactions",
   "main": "es5/index.js",
   "scripts": {
